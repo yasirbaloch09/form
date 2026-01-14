@@ -1,0 +1,47 @@
+form{
+    border: 1px solid black;
+    background-color: beige;
+    width: 400px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 100px;
+    border-radius: 20px;
+
+}
+input{
+    width: 300px;
+    height: 20px;
+    font-size: medium;
+}
+.info{
+    align-items: center;
+    border-color: cadetblue;
+    
+}
+.gender{
+    width: 30px;
+    height: 15px;
+    font-weight: bold;
+
+}
+.area{
+     width: 30px;
+    height: 15px;
+    font-weight: bold;
+
+}
+#but{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: violet;
+    font-size: large;
+    font-style:italic;
+    font-weight: bolder;
+}
+h1{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
